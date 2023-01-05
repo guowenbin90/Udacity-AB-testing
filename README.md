@@ -33,8 +33,8 @@ beta = P(fail to reject | null false)
 1 - beta = sensitivity (80%)  
 Small sample: alpha low, beta high  
 Large sample: alpha high, beta low  
-[calculator](https://www.evanmiller.org/ab-testing/sample-size.html)
+- [use this calculator](https://www.evanmiller.org/ab-testing/sample-size.html)
 
-d = X_exp/N_exp - X_cont/N_cont  
+<img src="https://github.com/guowenbin90/Udacity-AB-test/blob/main/significance.png" width=40% height=40%>
 
 
