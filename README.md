@@ -20,6 +20,7 @@ Click-through-probability = Unique visitors who click/Unique visitors to page
 -P same for all
 
 ### Confidence level
+[z-table](https://www.had2know.org/academics/normal-distribution-table-z-scores.html)  
 p_hat = x/N  
 To use normal: check N*p >5 and N*(1-p)>5   
 m = Z-score * StandardError(binominal)  
