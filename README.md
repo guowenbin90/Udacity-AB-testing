@@ -27,5 +27,14 @@ m = Z-score * StandardError(binominal)
 m = Z-score * sqrt(p(1-p)/n)  
 confidence interval = [p-m,p+m]  
 
+### Size and Power
+alpha = P(reject null | null true)  
+beta = P(fail to reject | null false)  
+1 - beta = sensitivity (80%)  
+Small sample: alpha low, beta high  
+Large sample: alpha high, beta low  
+[calculator](https://www.evanmiller.org/ab-testing/sample-size.html)
+
+d = X_exp/N_exp - X_cont/N_cont  
 
 
