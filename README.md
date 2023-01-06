@@ -37,4 +37,5 @@ Large sample: alpha high, beta low
 
 <img src="https://github.com/guowenbin90/Udacity-AB-test/blob/main/significance.png" width=40% height=40%>
 
-
+## Policy and Ethics for Experiments
+## Choosing and Characterizing Metrics
