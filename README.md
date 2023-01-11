@@ -40,3 +40,4 @@ Large sample: alpha high, beta low
 ## Policy and Ethics for Experiments
 ## Choosing and Characterizing Metrics
 ## Design an Experiment
+## Analyzing Results
