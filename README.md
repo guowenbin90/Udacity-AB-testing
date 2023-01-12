@@ -41,3 +41,4 @@ Large sample: alpha high, beta low
 ## Choosing and Characterizing Metrics
 ## Design an Experiment
 ## Analyzing Results
+## Final Project
