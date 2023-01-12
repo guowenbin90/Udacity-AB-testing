@@ -39,6 +39,15 @@ Large sample: alpha high, beta low
 
 ## Policy and Ethics for Experiments
 ## Choosing and Characterizing Metrics
+### Expanding Customer funnel
+-Home page visits  
+-Course list visits  
+-Visits to course pages  
+-Account created  
+-Enrollment  
+-Coaching use  
+-Completion  
+-Jobs  
 ## Design an Experiment
 ## Analyzing Results
 ## Final Project
