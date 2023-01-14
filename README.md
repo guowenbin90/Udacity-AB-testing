@@ -48,6 +48,10 @@ Large sample: alpha high, beta low
 -Coaching use  
 -Completion  
 -Jobs  
+### Techniques to gather additional data
+1. User experience research (UER): eye-tracking  
+2. Focus group: get feedback on hypothesis   
+3. Survey  
 ## Design an Experiment
 ## Analyzing Results
 ## Final Project
