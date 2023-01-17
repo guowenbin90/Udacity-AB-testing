@@ -52,6 +52,7 @@ Large sample: alpha high, beta low
 1. User experience research (UER): eye-tracking  
 2. Focus group: get feedback on hypothesis   
 3. Survey  
+### Metrics
 ## Design an Experiment
 ## Analyzing Results
 ## Final Project
