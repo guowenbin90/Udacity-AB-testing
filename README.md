@@ -53,6 +53,7 @@ Large sample: alpha high, beta low
 2. Focus group: get feedback on hypothesis   
 3. Survey  
 ### Metrics
+### Variablity
 ## Design an Experiment
 ## Analyzing Results
 ## Final Project
