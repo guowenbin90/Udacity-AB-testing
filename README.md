@@ -56,6 +56,7 @@ Large sample: alpha high, beta low
 ### Variablity
 ## Design an Experiment
 ### Unit of Diversion
+- Commonly used
 1. User id  
 -Stable, unchanging  
 -Personally identifiable  
@@ -65,6 +66,13 @@ Large sample: alpha high, beta low
 3. Event  
 -No consistent experience  
 -Use only for non-user-visiable changes  
+- Less commmon
+4. Device id  
+-Only available for mobile  
+-Tied to specific devicce  
+-Unchangeable by user  
+5. IP address  
+-Changes when location changes
 ### Targeting population
 
 ## Analyzing Results
