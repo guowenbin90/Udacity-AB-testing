@@ -55,5 +55,7 @@ Large sample: alpha high, beta low
 ### Metrics
 ### Variablity
 ## Design an Experiment
+### Targeting population
+
 ## Analyzing Results
 ## Final Project
