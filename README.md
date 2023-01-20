@@ -55,6 +55,16 @@ Large sample: alpha high, beta low
 ### Metrics
 ### Variablity
 ## Design an Experiment
+### Unit of Diversion
+1. User id  
+-Stable, unchanging  
+-Personally identifiable  
+2. Anonymous id (cookie)  
+-Changes when you switch browser or device  
+-Users can clear cookies  
+3. Event  
+-No consistent experience  
+-Use only for non-user-visiable changes  
 ### Targeting population
 
 ## Analyzing Results
