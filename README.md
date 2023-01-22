@@ -74,6 +74,6 @@ Large sample: alpha high, beta low
 5. IP address  
 -Changes when location changes
 ### Targeting population
-
+### Sizing
 ## Analyzing Results
 ## Final Project
