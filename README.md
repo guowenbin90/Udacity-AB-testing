@@ -76,4 +76,5 @@ Large sample: alpha high, beta low
 ### Targeting population
 ### Sizing
 ## Analyzing Results
+### Invariants
 ## Final Project
