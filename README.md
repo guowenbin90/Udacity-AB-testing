@@ -77,4 +77,5 @@ Large sample: alpha high, beta low
 ### Sizing
 ## Analyzing Results
 ### Invariants
+### Metrics
 ## Final Project
